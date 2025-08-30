@@ -1,0 +1,5 @@
+grades=('a','b','c','d','e','a','a','a','a')
+grades_list=list(grades)
+print(grades.count('a'))
+grades_list.sort()
+print(grades_list)
